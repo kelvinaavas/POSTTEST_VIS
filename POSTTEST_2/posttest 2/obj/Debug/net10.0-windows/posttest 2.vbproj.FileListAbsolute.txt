@@ -1,0 +1,16 @@
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest_2.Form1.resources
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.vbproj.GenerateResource.cache
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.AssemblyInfoInputs.cache
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.AssemblyInfo.vb
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.vbproj.CoreCompileInputs.cache
+D:\posttest 2\posttest 2\bin\Debug\net10.0-windows\posttest 2.exe
+D:\posttest 2\posttest 2\bin\Debug\net10.0-windows\posttest 2.deps.json
+D:\posttest 2\posttest 2\bin\Debug\net10.0-windows\posttest 2.runtimeconfig.json
+D:\posttest 2\posttest 2\bin\Debug\net10.0-windows\posttest 2.dll
+D:\posttest 2\posttest 2\bin\Debug\net10.0-windows\posttest 2.pdb
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.dll
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\refint\posttest 2.dll
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.pdb
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\posttest 2.genruntimeconfig.cache
+D:\posttest 2\posttest 2\obj\Debug\net10.0-windows\ref\posttest 2.dll
