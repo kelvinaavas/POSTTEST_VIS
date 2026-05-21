@@ -1,0 +1,58 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>PA_PMVIS</RootNamespace>
+    <StartupObject>Sub Main</StartupObject>
+    <UseWindowsForms>true</UseWindowsForms>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Drawing.Printing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.3.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="My Project\Application.Designer.vb">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Update="FormMenuAwal.Designer.vb">
+      <DependentUpon>FormMenuAwal.vb</DependentUpon>
+    </Compile>
+    <Compile Update="FormBooking.Designer.vb">
+      <DependentUpon>FormBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Update="FormAntrian.Designer.vb">
+      <DependentUpon>FormAntrian.vb</DependentUpon>
+    </Compile>
+    <Compile Update="FormAdmin.Designer.vb">
+      <DependentUpon>FormAdmin.vb</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="FormMenuAwal.resx">
+      <DependentUpon>FormMenuAwal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormBooking.resx">
+      <DependentUpon>FormBooking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormAntrian.resx">
+      <DependentUpon>FormAntrian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormAdmin.resx">
+      <DependentUpon>FormAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

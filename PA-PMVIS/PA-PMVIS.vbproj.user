@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="FormAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormAntrian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMenuAwal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
